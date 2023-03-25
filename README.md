@@ -6,8 +6,3 @@
 ## Configuração de token de autenticação
 > https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
-#Ferramentas do Visual Studio Code:
-
-> Git Graph
-
-> Git Lens
